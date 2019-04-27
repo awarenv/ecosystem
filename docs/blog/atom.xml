@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://awarenv.github.io/ecosystem/blog</id>
+    <id>https://awarenv.github.io/blog</id>
     <title>Ecosystem Blog</title>
     <updated>2019-04-27T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
-    <link rel="alternate" href="https://awarenv.github.io/ecosystem/blog"/>
+    <link rel="alternate" href="https://awarenv.github.io/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Ecosystem news and events.</subtitle>
-    <logo>https://awarenv.github.io/ecosystem/img/globe.svg</logo>
+    <logo>https://awarenv.github.io/img/globe.svg</logo>
     <rights>Copyright © 2019 AwarEnv</rights>
     <entry>
         <title type="html"><![CDATA[Welcome!]]></title>
-        <id>https://awarenv.github.io/ecosystem/blog/2019/04/27/welcome.html</id>
-        <link href="https://awarenv.github.io/ecosystem/blog/2019/04/27/welcome.html">
+        <id>https://awarenv.github.io/blog/2019/04/27/welcome.html</id>
+        <link href="https://awarenv.github.io/blog/2019/04/27/welcome.html">
         </link>
         <updated>2019-04-27T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Welcome to the Ecosystem!</p>
