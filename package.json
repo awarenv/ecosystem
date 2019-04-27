@@ -1,0 +1,24 @@
+{
+  "name": "ecosystem",
+  "version": "0.0.1",
+  "description": "Overarching documentation",
+  "main": "server.js",
+  "scripts": {
+    "start": "cd website && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awarenv/ecosystem.git"
+  },
+  "keywords": [
+    "documentation",
+    "docusaurus"
+  ],
+  "author": "Brian Thompson <brian.thompson@awarenv.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awarenv/ecosystem/issues"
+  },
+  "homepage": "https://github.com/awarenv/ecosystem#readme"
+}
