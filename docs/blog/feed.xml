@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>Ecosystem Blog</title>
-        <link>https://awarenv.github.io/projects/blog</link>
+        <link>https://awarenv.github.io/ecosystem/blog</link>
         <description>The best place to stay up-to-date with the latest Ecosystem news and events.</description>
         <lastBuildDate>Sat, 27 Apr 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Ecosystem Blog</title>
-            <url>https://awarenv.github.io/projects/img/globe.svg</url>
-            <link>https://awarenv.github.io/projects/blog</link>
+            <url>https://awarenv.github.io/ecosystem/img/globe.svg</url>
+            <link>https://awarenv.github.io/ecosystem/blog</link>
         </image>
         <copyright>Copyright © 2019 AwarEnv</copyright>
         <item>
             <title><![CDATA[Welcome!]]></title>
-            <link>https://awarenv.github.io/projects/blog/2019/04/27/welcome.html</link>
-            <guid>https://awarenv.github.io/projects/blog/2019/04/27/welcome.html</guid>
+            <link>https://awarenv.github.io/ecosystem/blog/2019/04/27/welcome.html</link>
+            <guid>https://awarenv.github.io/ecosystem/blog/2019/04/27/welcome.html</guid>
             <pubDate>Sat, 27 Apr 2019 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>Welcome to the Ecosystem!</p>
 ]]></description>
