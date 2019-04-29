@@ -1,10 +1,12 @@
 {
   "name": "ecosystem",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Overarching documentation",
   "main": "server.js",
   "scripts": {
-    "start": "cd website && npm start",
+    "lint:init": "eslint --init",
+    "lint": "eslint **/*.js",
+    "start": "cd website && npm i && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/awarenv/ecosystem/issues"
   },
-  "homepage": "https://github.com/awarenv/ecosystem#readme"
+  "homepage": "https://github.com/awarenv/ecosystem#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4"
+  }
 }

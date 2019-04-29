@@ -11,6 +11,11 @@ Whenever a change is made, it needs to be documented here and meet the following
 - Use present tense verbs
 - Be as descriptive as possible
 
+## 0.1.1
+
+- Add ESLint
+- Add a couple npm scripts
+
 ## 0.1.0
 
 Make ready for Github Pages
